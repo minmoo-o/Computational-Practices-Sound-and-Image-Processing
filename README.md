@@ -1,4 +1,4 @@
-CP - 17/02/26 - Week 01: Pixels and Colour
+# CP - 17/02/26 - Week 01: Pixels and Colour
 
 Directory contents
 
