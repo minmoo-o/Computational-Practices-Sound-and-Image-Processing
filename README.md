@@ -1,5 +1,4 @@
-# Computational-Practices-Sound-and-Image-Processing
-Week 1: Pixels and Colour.
+CP - 17/02/26 - Week 01: Pixels and Colour
 
 Directory contents
 
